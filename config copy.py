@@ -1,0 +1,6 @@
+customhost = "localhost"
+customuser = "root"
+custompass = "s1234"
+customdb = "babdu"
+custombucket = "addemployee3"
+customregion = "us-east-1"
